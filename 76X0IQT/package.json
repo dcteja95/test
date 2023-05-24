@@ -1,0 +1,13 @@
+{
+  "name": "azurenode",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "aws-xray-sdk": "^3.5.0",
+    "canvas": "^2.11.2"
+  }
+}
